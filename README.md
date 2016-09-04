@@ -17,8 +17,9 @@ HiAR SDK 的测试工程。
  * 设置ImageTarget 需要在网站管理后台创建图集，稍微有些不便。（官方也考虑到了这一点，同时提供了云端API可以完成网站管理后台的所有操作）
 
 
-##文档信息
+##文档更新
 **2016-09-04：**
- 国内类似的项目有EasyAR、及太虚AR等，稍后我会对EasyAR的入门使用做一些测试。
+ * 国内类似的项目有EasyAR、及太虚AR等，稍后我会对EasyAR的入门使用做一些测试。
+ * Android的测试安装包可以在[这里](https://github.com/codeMonkeyWang/HiAR-Demo/releases/tag/v0.1)下载
 
 
